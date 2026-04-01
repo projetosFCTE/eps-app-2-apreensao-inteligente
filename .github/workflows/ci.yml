@@ -1,4 +1,4 @@
-name: c
+name: DevSecOps Pipeline
 
 on:
   push:
